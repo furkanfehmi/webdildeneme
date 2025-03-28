@@ -1,0 +1,11 @@
+json
+{
+    "title": "Welcome to Our Website",
+    "description": "This is an example website that supports multiple languages.",
+    "homeTitle": "Home",
+    "homeContent": "This is the home page content in English.",
+    "aboutTitle": "About Us",
+	"aboutContent": "We are a team of developers creating useful websites.",
+    "contactTitle": "Contact Us",
+    "contactContent": "You can reach us at contact@ourwebsite.com."
+}

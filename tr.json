@@ -1,0 +1,11 @@
+json
+{
+    "title": "Web Sitemize Hoş Geldiniz",
+    "description": "Bu, birden fazla dil desteği sunan örnek bir web sitesidir.",
+    "homeTitle": "Ana Sayfa",
+    "homeContent": "Bu, Türkçe dilinde ana sayfa içeriğidir.",
+    "aboutTitle": "Hakkımızda",
+    "aboutContent": "Biz, faydalı web siteleri oluşturmak için çalışan bir yazılım ekibiyiz.",
+    "contactTitle": "Bize Ulaşın",
+    "contactContent": "Bize contact@ourwebsite.com adresinden ulaşabilirsiniz."
+}
